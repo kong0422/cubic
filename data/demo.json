@@ -1,0 +1,35 @@
+{
+  "exhibition":{
+    "exponame": "露營展",
+    "expostart": 1700720400,
+    "expolocation" : "世貿廣場"
+  },
+  "sign": {
+    "membername" : "馬苦",
+    "exponame": "天氣露營展覽",
+    "expocode": "EAF3911",
+    "expoentrytimes": [
+      1700720618,
+      1700720400
+    ],
+    "events": [
+      {
+        "eventname" : "帳篷 try try see",
+        "eventid": 493,
+        "evententrytime": 1700720618
+      },
+      {
+        "eventname" : "手電筒測試",
+        "eventid": 421,
+        "evententrytime": null
+      }
+    ]
+  },
+  "checkin": {
+    "qrcode": "SFGJA2818",
+    "expocode": "EAF3911",
+    "eventids": [
+      493
+    ]
+  }
+}
